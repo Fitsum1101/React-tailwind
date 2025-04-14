@@ -11,6 +11,7 @@ import Image8 from "../../images/person8.png";
 
 const Collection = () => {
   const MYdata = [
+    {},
     {
       image: Image1,
       fullname: "arthur melo",
